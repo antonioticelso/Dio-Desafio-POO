@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c314501c-5ac7-4260-adc3-799ef21040a7" name="Changes" comment="Creat: Criaçao do projeto">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/github/antonioticelso/dominio/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/github/antonioticelso/dominio/Mentoria.java" afterDir="false" />
+    <list default="true" id="c314501c-5ac7-4260-adc3-799ef21040a7" name="Changes" comment="Creat: Criaçao de: Curso, Mentoria, Application">
+      <change afterPath="$PROJECT_DIR$/src/com/github/antonioticelso/dominio/Conteudo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/github/antonioticelso/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/antonioticelso/dominio/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/github/antonioticelso/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/antonioticelso/dominio/Mentoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1640879542742</updated>
-      <workItem from="1640879544224" duration="2181000" />
+      <workItem from="1640879544224" duration="3684000" />
     </task>
     <task id="LOCAL-00001" summary="Creat: Criaçao do projeto">
       <created>1640879805263</created>
@@ -81,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640879805263</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Creat: Criaçao de: Curso, Mentoria, Application">
+      <created>1640881980502</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1640881980502</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +105,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creat: Criaçao do projeto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creat: Criaçao do projeto" />
+    <MESSAGE value="Creat: Criaçao de: Curso, Mentoria, Application" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creat: Criaçao de: Curso, Mentoria, Application" />
   </component>
 </project>
