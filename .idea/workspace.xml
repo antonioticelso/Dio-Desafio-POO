@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c314501c-5ac7-4260-adc3-799ef21040a7" name="Changes" comment="Creat: Criaçao de: Curso, Mentoria, Application">
-      <change afterPath="$PROJECT_DIR$/src/com/github/antonioticelso/dominio/Conteudo.java" afterDir="false" />
+    <list default="true" id="c314501c-5ac7-4260-adc3-799ef21040a7" name="Changes" comment="Creat: Criaçao de: Conteudo">
+      <change afterPath="$PROJECT_DIR$/src/com/github/antonioticelso/dominio/Bootcamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/antonioticelso/dominio/Dev.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/antonioticelso/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/antonioticelso/dominio/Curso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/antonioticelso/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/antonioticelso/dominio/Mentoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +23,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -70,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1640879542742</updated>
-      <workItem from="1640879544224" duration="3684000" />
+      <workItem from="1640879544224" duration="5081000" />
     </task>
     <task id="LOCAL-00001" summary="Creat: Criaçao do projeto">
       <created>1640879805263</created>
@@ -86,7 +93,21 @@
       <option name="project" value="LOCAL" />
       <updated>1640881980502</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Creat: Criaçao de: Conteudo">
+      <created>1640883733630</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1640883733630</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Creat: Criaçao de: Conteudo">
+      <created>1640883748298</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1640883748298</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +127,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creat: Criaçao do projeto" />
     <MESSAGE value="Creat: Criaçao de: Curso, Mentoria, Application" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creat: Criaçao de: Curso, Mentoria, Application" />
+    <MESSAGE value="Creat: Criaçao de: Conteudo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creat: Criaçao de: Conteudo" />
   </component>
 </project>
