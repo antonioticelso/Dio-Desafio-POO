@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c314501c-5ac7-4260-adc3-799ef21040a7" name="Changes" comment="Creat: Criaçao de: Conteudo">
-      <change afterPath="$PROJECT_DIR$/src/com/github/antonioticelso/dominio/Bootcamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/github/antonioticelso/dominio/Dev.java" afterDir="false" />
+    <list default="true" id="c314501c-5ac7-4260-adc3-799ef21040a7" name="Changes" comment="Creat: Criaçao de: Bootcamp e Dev">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/github/antonioticelso/dominio/Dev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/antonioticelso/dominio/Dev.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1640879542742</updated>
-      <workItem from="1640879544224" duration="5081000" />
+      <workItem from="1640879544224" duration="5729000" />
     </task>
     <task id="LOCAL-00001" summary="Creat: Criaçao do projeto">
       <created>1640879805263</created>
@@ -107,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640883748298</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Creat: Criaçao de: Bootcamp e Dev">
+      <created>1640885024134</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1640885024134</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +134,7 @@
     <MESSAGE value="Creat: Criaçao do projeto" />
     <MESSAGE value="Creat: Criaçao de: Curso, Mentoria, Application" />
     <MESSAGE value="Creat: Criaçao de: Conteudo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creat: Criaçao de: Conteudo" />
+    <MESSAGE value="Creat: Criaçao de: Bootcamp e Dev" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creat: Criaçao de: Bootcamp e Dev" />
   </component>
 </project>
